@@ -6,7 +6,7 @@ subtitle: <a href='#'> </a> PhD student at UMass Amherst
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: headshot.jpeg
   address: >
     <p>Amherst, MA 01002</p>
 
