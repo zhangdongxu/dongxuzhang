@@ -1,6 +1,6 @@
 ---
 title: CV
-permalink: /assets/pdf/
+permalink: /assets/pdf/dongxuzhang_CV.pdf
 description:
 nav: true
 horizontal: false
