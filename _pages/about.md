@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'> </a> PhD student at UMass Amherst
+subtitle: <a href='#'> </a> Research scientist at ASAPP
 
 profile:
   align: right
