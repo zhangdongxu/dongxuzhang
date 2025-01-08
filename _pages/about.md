@@ -2,13 +2,13 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'> </a> Research scientist at ASAPP
+subtitle: <a href='#'> </a> Machine learning scientist at Optum
 
 profile:
   align: right
   image: headshot.jpg
   address: >
-    <p>Amherst, MA 01002</p>
+    <p>Atlanta, GA 30329</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
