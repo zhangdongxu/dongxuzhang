@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'> Machine learning scientist at Optum </a>
+subtitle: <a href='#'> </a> Machine learning scientist at Optum
 
 profile:
   align: right
